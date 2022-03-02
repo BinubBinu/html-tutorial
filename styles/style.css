@@ -2,6 +2,9 @@
 
 
 body {
-    background-color:greenyellow;
-    color:blue;
+    background-color:rgb(245, 248, 248);
+    color:rgb(0, 0, 0);
+}
+p{
+    color:rgb(34, 22, 22)
 }
